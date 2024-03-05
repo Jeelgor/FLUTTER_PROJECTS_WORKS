@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481211800646",
+    "project_id": "sneakstoreclg",
+    "storage_bucket": "sneakstoreclg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481211800646:android:33ba512a5c2efb1c5dbe47",
+        "android_client_info": {
+          "package_name": "com.example.sneakstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwD-_mJIS1gW3eYhcHoI-oGwiT-IOkuXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,66 @@
+C:\Users\MYPC\source\repos\T10\T10\bin\Debug\T10.exe.config
+C:\Users\MYPC\source\repos\T10\T10\bin\Debug\T10.exe
+C:\Users\MYPC\source\repos\T10\T10\bin\Debug\T10.pdb
+C:\Users\MYPC\source\repos\T10\T10\obj\Debug\T10.csproj.AssemblyReference.cache
+C:\Users\MYPC\source\repos\T10\T10\obj\Debug\T10.csproj.SuggestedBindingRedirects.cache
+C:\Users\MYPC\source\repos\T10\T10\obj\Debug\T10.Properties.Resources.resources
+C:\Users\MYPC\source\repos\T10\T10\obj\Debug\T10.csproj.GenerateResource.cache
+C:\Users\MYPC\source\repos\T10\T10\obj\Debug\T10.csproj.CoreCompileInputs.cache
+C:\Users\MYPC\source\repos\T10\T10\obj\Debug\T10.exe
+C:\Users\MYPC\source\repos\T10\T10\obj\Debug\T10.pdb
+C:\Users\MYPC\source\repos\T10\T10\bin\Debug\Database2.mdf
+C:\Users\MYPC\source\repos\T10\T10\bin\Debug\Database2_log.ldf
+C:\Users\MYPC\source\repos\T10\T10\obj\Debug\T10.Form1.resources
+C:\Users\MYPC\source\repos\T10\T10\obj\Debug\T10.Form3.resources
+C:\Users\MYPC\source\repos\T10\T10\obj\Debug\T10.Form4.resources
+C:\Users\MYPC\source\repos\T10\T10\obj\Debug\T10.Form5.resources
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\bin\Debug\Database2.mdf
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\bin\Debug\Database2_log.ldf
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\bin\Debug\T10.exe.config
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\bin\Debug\T10.exe
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\bin\Debug\T10.pdb
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\obj\Debug\T10.csproj.AssemblyReference.cache
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\obj\Debug\T10.Form1.resources
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\obj\Debug\T10.Form3.resources
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\obj\Debug\T10.Form4.resources
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\obj\Debug\T10.Form5.resources
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\obj\Debug\T10.Form6.resources
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\obj\Debug\T10.Properties.Resources.resources
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\obj\Debug\T10.csproj.GenerateResource.cache
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\obj\Debug\T10.csproj.CoreCompileInputs.cache
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\obj\Debug\T10.exe
+C:\Users\Gor Jeel\OneDrive\Desktop\T10\T10\T10\obj\Debug\T10.pdb
+D:\T10\T10\T10\bin\Debug\Database2.mdf
+D:\T10\T10\T10\bin\Debug\Database2_log.ldf
+D:\T10\T10\T10\bin\Debug\T10.exe.config
+D:\T10\T10\T10\bin\Debug\T10.exe
+D:\T10\T10\T10\bin\Debug\T10.pdb
+D:\T10\T10\T10\obj\Debug\T10.csproj.AssemblyReference.cache
+D:\T10\T10\T10\obj\Debug\T10.Form1.resources
+D:\T10\T10\T10\obj\Debug\T10.Form3.resources
+D:\T10\T10\T10\obj\Debug\T10.Form4.resources
+D:\T10\T10\T10\obj\Debug\T10.Form5.resources
+D:\T10\T10\T10\obj\Debug\T10.Form6.resources
+D:\T10\T10\T10\obj\Debug\T10.Properties.Resources.resources
+D:\T10\T10\T10\obj\Debug\T10.csproj.GenerateResource.cache
+D:\T10\T10\T10\obj\Debug\T10.csproj.CoreCompileInputs.cache
+D:\T10\T10\T10\obj\Debug\T10.exe
+D:\T10\T10\T10\obj\Debug\T10.pdb
+D:\T10\T10\T10\obj\Debug\T10.Form2.resources
+E:\backup\T10\T10\T10\bin\Debug\Database2.mdf
+E:\backup\T10\T10\T10\bin\Debug\Database2_log.ldf
+E:\backup\T10\T10\T10\bin\Debug\T10.exe.config
+E:\backup\T10\T10\T10\bin\Debug\T10.exe
+E:\backup\T10\T10\T10\bin\Debug\T10.pdb
+E:\backup\T10\T10\T10\obj\Debug\T10.csproj.AssemblyReference.cache
+E:\backup\T10\T10\T10\obj\Debug\T10.Form1.resources
+E:\backup\T10\T10\T10\obj\Debug\T10.Form2.resources
+E:\backup\T10\T10\T10\obj\Debug\T10.Form3.resources
+E:\backup\T10\T10\T10\obj\Debug\T10.Form4.resources
+E:\backup\T10\T10\T10\obj\Debug\T10.Form5.resources
+E:\backup\T10\T10\T10\obj\Debug\T10.Form6.resources
+E:\backup\T10\T10\T10\obj\Debug\T10.Properties.Resources.resources
+E:\backup\T10\T10\T10\obj\Debug\T10.csproj.GenerateResource.cache
+E:\backup\T10\T10\T10\obj\Debug\T10.csproj.CoreCompileInputs.cache
+E:\backup\T10\T10\T10\obj\Debug\T10.exe
+E:\backup\T10\T10\T10\obj\Debug\T10.pdb
